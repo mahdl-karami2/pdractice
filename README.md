@@ -8,6 +8,7 @@ This is a simple yet advanced React application designed to demonstrate core con
 - **Basic routing**: Navigate between pages using React Router (if applicable).
 - **Responsive design**: Optimized for various screen sizes.
 - **Error boundaries**: Handle unexpected errors gracefully.
+- **Error boundaries**: Handle unexpected errors gracefully.
 
 ## Prerequisites
 
