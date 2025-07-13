@@ -9,6 +9,10 @@ This is a simple yet advanced React application designed to demonstrate core con
 - **Responsive design**: Optimized for various screen sizes.
 - **Error boundaries**: Handle unexpected errors gracefully.
 - **Error boundaries**: Handle unexpected errors gracefully.
+- **Error boundaries**: Handle unexpected errors gracefully.
+- **Error boundaries**: Handle unexpected errors gracefully.
+- **Error boundaries**: Handle unexpected errors gracefully.
+- **Error boundaries**: Handle unexpected errors gracefully.
 
 ## Prerequisites
 
